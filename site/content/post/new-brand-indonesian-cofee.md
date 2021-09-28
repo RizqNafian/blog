@@ -2,10 +2,8 @@
 title: New Brand Indonesian Cofee
 date: 2021-09-28T15:41:41.718Z
 description: Top 10 Indonesia Most Available RTD Coffee Brand
-image: https://www.google.com/url?sa=i&url=https%3A%2F%2Fthehoneycombers.com%2Fbali%2Fbest-coffee-in-bali%2F&psig=AOvVaw2DNWAbvuqLeYMpfb9PcvRJ&ust=1632930211200000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMjsh6CBovMCFQAAAAAdAAAAABAD
+image: https://static.thehoneycombers.com/wp-content/uploads/sites/4/2019/10/Revolver-Espresso-cafe-in-Seminyak-best-coffee-in-Bali-Indonesia-1-768x548.jpg
 ---
-
-
 1. Granita (Index: 83,1%)
 2. Kopi Cup (Index: 12,9%)
 3. Kopiko 78C (Index: 11,9%)

@@ -17,6 +17,6 @@ You can also use the form below for any inquiries about coffee
 availability, monthly subscriptions and scheduling a 1-on-1 session
 with our baristas. Don’t be shy, drop us a line!
 
-<h3 class="f4 b lh-title mb2" align="center">Author</h3>
+<h3 align="center">Author</h3>
 
 <p align="center">Rizqi Nafian Diraga</p>
